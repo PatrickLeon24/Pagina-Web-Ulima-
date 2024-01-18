@@ -1,0 +1,17 @@
+button{
+    width: 190px;
+    height: 190px;
+}
+
+body{
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.casillas{
+    width: 190px;
+    height: 190px;
+}
+img{
+    width: 170px;
+    height: 180px;
+}
