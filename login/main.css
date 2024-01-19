@@ -1,0 +1,13 @@
+.accion{
+    padding-right: 5px;
+    border-right: solid 3px gray;
+    color: rgb(20, 89, 240);
+}
+.accion1{
+    padding-left: 5px;
+    color: rgb(20, 89, 240);
+}
+
+.prim{
+    border-bottom: 10px;
+}
